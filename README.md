@@ -36,7 +36,7 @@ The project follows a layered architectural design pattern:
 
 ## 📂 Core Operations
 
-1. Doubly Linked List (`clsDblLinkedList<T>`)
+### 1. Doubly Linked List (`clsDblLinkedList<T>`)
 
 A templated list container supporting bidirectional traversal and constant-time dynamic insertions/deletions at designated boundaries.
 
@@ -66,7 +66,7 @@ A templated list container supporting bidirectional traversal and constant-time 
 
 ---
 
-2. Stack Implementation (`clsMyStack<T>`)
+### 2. Stack Implementation (`clsMyStack<T>`)
 
 | Method | Complexity |	Description |
 | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ A templated list container supporting bidirectional traversal and constant-time 
 | `Reverse()` | O(N) | Reverses the internal sequence of elements in the stack in-place. |
 | `Print()` | O(N) | Outputs all elements of the stack sequentially to the standard output. |
 
-3. Undo/Redo String Manager (`clsMyString`)
+### 3. Undo/Redo String Manager (`clsMyString`)
 
   A state-tracking string wrapper class leveraging two internal stack instances (`_Undo` and `_Redo`).
 
