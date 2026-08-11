@@ -1,25 +1,23 @@
 #include <iostream>
-#include "clsMyString.h"
+#include "clsMyStringUndoRedo.h"
 
 using namespace std;
 
-int main()
-{
-    cout << "\n\n\t\t\t\t\t\t Undo/Redo Project\n\n";
-
+int main() {
+    
     clsMyString S1;
 
     cout << "\nS1 = " << S1.Value << "\n";
 
-    S1.Value = "Ahmed";
+    S1.Value = "Gwiada";
 
     cout << "S1 = " << S1.Value << "\n";
 
-    S1.Value = "Ahmed2";
+    S1.Value = "Gwiada2";
 
     cout << "S1 = " << S1.Value << "\n";
 
-    S1.Value = "Ahmed3";
+    S1.Value = "Gwiada3";
 
     cout << "S1 = " << S1.Value << "\n";
 
@@ -53,6 +51,5 @@ int main()
 
     cout << "S1 after Redo = " << S1.Value << "\n";
 
-    system("pause>0");
     return 0;
 }
