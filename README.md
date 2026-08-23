@@ -91,7 +91,7 @@ A templated list container supporting bidirectional traversal and constant-time 
 
   `Redo()`: Reinstates the previously undone string state by popping from `_Redo` and pushing onto `_Undo`.
 
-## ⚙ Key Concepts Demonstrated
+## 🔑 Key Concepts Demonstrated
 
 Template Metaprogramming: Generic class construction using C++ templates (`template <class T>`) for universal type support.
 
