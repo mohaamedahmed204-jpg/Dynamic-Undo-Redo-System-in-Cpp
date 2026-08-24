@@ -34,7 +34,7 @@ The project follows a layered architectural design pattern:
 3. `clsMyString` utilizes two instance stacks to deliver robust state manipulation.
 
 
-## 📂 Core Operations
+## ⌨ Core Operations
 
 ### 1. Doubly Linked List (`clsDblLinkedList<T>`)
 
