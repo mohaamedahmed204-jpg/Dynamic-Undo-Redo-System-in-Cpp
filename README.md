@@ -1,6 +1,6 @@
 # 🔄 Dynamic Undo/Redo System in C++
 
-## 📌 Overview
+## 📌 Overview.   
 
 A high-performance, object-oriented C++ implementation featuring a generic Doubly Linked List (`clsDblLinkedList`), a custom Stack (`clsMyStack`) data structure built on top of it, and a practical application: a String Class (`clsMyString`) with full Undo / Redo operational history support.
 
