@@ -6,7 +6,7 @@ A high-performance, object-oriented C++ implementation featuring a generic Doubl
 
 This project demonstrates how low-level memory management and template programming can be composed into clean, reusable high-level data abstractions.
 
-## 🏗 Architecture & Design
+## 🏗 Architecture & Design.          
 
 The project follows a layered architectural design pattern:
 
