@@ -105,11 +105,11 @@ Static Class Members: Static size tracking (`inline static long long _Size`) sha
 
 ## 🛠 Technologies
 
-Language: C++ (C++17 or higher recommended)
+* Language: C++ (C++17 or higher recommended)
 
-Standard Library: Standard IO Streams (`<iostream>`), Standard String (`<string>`)
+* Standard Library: Standard IO Streams (`<iostream>`), Standard String (`<string>`)
 
-Paradigm: Object-Oriented Programming (OOP) & Generic Programming
+* Paradigm: Object-Oriented Programming (OOP) & Generic Programming
 
 ## 👨‍🏫 Instructor
 
